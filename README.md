@@ -17,11 +17,11 @@
 </p>
 
 
-<h2>contaminación ambiental en medellín </h2>
+<h2>Contaminación ambiental en medellín </h2>
 <p>Durante los últimos 25 años, la temperatura media anual en Medellín ha aumentado ligeramente. En los años posteriores a 1999, la temperatura media anual fue de aproximadamente 26,2 °C, mientras que en los últimos años anteriores a 2023, se situó en alrededor de 26,6 °C1. Lo que pasa al aumentar la temperatura es que medellín se está calentando debido al cambio climático. Esto es consistente con la mayoría de las regiones del mundo, donde se observa un aumento de las temperaturas debido a las emisiones de gases de efecto invernadero.que a su vez también afecta:
 </p>
 
-<h2>las criptomonedas </h2>
+<h2>Las criptomonedas </h2>
 
 <p>Las criptomonedas se crean como otra alternativa al sistema financiero tradicional, y su objetivo es poder permitir transacciones entre dos personas o empresas sin la necesidad de intermediarios ya sea el banco o el gobierno, así podrían reducir el tiempo, costos además de riesgos en las operaciones. Las criptomonedas son monedas exclusivamente digitales, por lo cual no cuentan con un soporte físico, sino que es mucho más basado en confianza y valor de mercado por esto mismo son las personas las que le dan su valor.  Este activo digital funciona como medio de pago, se puede transferir directamente a otra persona sin la necesidad de intermediarios como lo serían los bancos son totalmente descentralizados, pero siempre queda todo un registro de lo que pase con ellas como lo sería la creación, las transferencias y demás transacciones, todo esto  se lleva en una base de datos llamada 'blockchain' que codifica las transacciones y las distribuye en una red inalterable y protegida por la criptografía para hacerla ininteligible a personas no autorizadas. 
 </p>
@@ -51,6 +51,7 @@ Mantener una transparencia total en todas las operaciones financieras y de gesti
 
 <h2>Maquetación:</h2>
 
+<h2>Nuestro Login</h2>
 <img src="/img/login-foto.png" alt="">
 <img src="/img/contenido-pagina.png" alt="">
 <img src="/img/contenido-pagina1.png" alt="">
