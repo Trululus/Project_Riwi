@@ -4,7 +4,7 @@
 <h2>Quiénes Somos</h2>
 <p>En Terracoin, estamos comprometidos con la conservación del medio ambiente en la hermosa región de Antioquia, Colombia. Somos unos de los pioneros en la utilización de la tecnología blockchain, NFT y las criptomonedas como herramientas innovadoras para recaudar fondos destinados a proyectos ambientales significativos además de mostrar cuales son los impactos que se han logrado .</p>
 
-<h2>planteamiento del problema </h2>
+<h2>Planteamiento del problema </h2>
 
 <p>El cambio climático es un tema que le debería interesar a todo el mundo y más ahora que podemos observar las consecuencias que ha traído tanta contaminacion, deforestacion, y el consumo desmedido de los recursos naturales, un ejemplo en este momento sería con la disminución de agua en algunos embalses  el más cercano a nosotros sería (embalse la fe-altiplano norte Antioqueño ¿porque nosotros tenemos que darle el agua a medellín?  y como bajaron sus niveles de agua), gracias a estos problemas han surgido muchas organizaciones que buscan intentar ayudar a solucionar todos estos problemas, para conservar y restaurar un poco el medio ambiente,  pero tienen la necesidad de buscar obtener fondos suficientes para llevar a cabo estos proyectos en la ciudad, a su vez,  muchas personas están poco informadas sobre los problemas ambientales para contribuir a soluciones.(falta hablar cripto).</p>
 
