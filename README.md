@@ -63,5 +63,10 @@ Mantener una transparencia total en todas las operaciones financieras y de gesti
 <h2>Proyectos:</h2>
 
 <h2>Roles</h2>
+<p> Lider del equipo y desarrolladora de sofware: Isabella Leyton Carmona </p>
+<p> DevOps Enfineer : Juan Pablo Saldarriaga Medina</p>
+<p> Scrum master : Juan Sebastian Valenzuela Pino</p>
+<p> Diseñador de interfaz y experiencia de usuario : Santiago Garzon Teran</p>
 
-<p></p>
+
+
