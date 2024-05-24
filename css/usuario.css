@@ -1,5 +1,81 @@
-/* sebas primera parte */
+/* General styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
 
+/* Navigation bar styles */
+nav#nav-bar {
+    background-color: #333;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+nav#nav-bar a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+nav#nav-bar a.logo-home {
+    margin-right: auto;
+}
+
+nav#nav-bar ul {
+    list-style-type: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+nav#nav-bar ul li {
+    margin: 0 10px;
+}
+
+nav#nav-bar .container-icon-home {
+    display: flex;
+    align-items: center;
+}
+
+nav#nav-bar .container-icon-home img {
+    width: 30px;
+}
+
+/* Main content styles */
+.container_principal, .container_logros {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 20px;
+}
+.tarjet {
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    border-radius: 8px;
+}
+.foto {
+    width: 150px;
+    height: 150px;
+    background-image: url(/img/usuario.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;
+}
+.detalles {
+    flex-grow: 1;
+    margin-left: 20px;
+}
+.nombre {
+    font-size: 24px;
+    font-weight: bold;
+}
 
 
 
