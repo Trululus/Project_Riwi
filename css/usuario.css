@@ -78,6 +78,107 @@ nav#nav-bar .container-icon-home img {
 }
 
 
+.cantidad_donada {
+    margin-top: 10px;
+}
+.cantidad_donada p {
+    display: inline;
+    font-size: 18px;
+}
+.cantidad_donada button {
+    font-size: 18px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.logros {
+    display: flex;
+    flex-wrap: wrap;
+}
+.minitarjet {
+    width: 200px;
+    height: 250px;
+    margin: 10px;
+    background-color: #fff;
+    padding: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    border-radius: 8px;
+}
+.alta {
+    height: 100px;
+    background-color: #4CAF50;
+    border-radius: 8px;
+}
+.baja {
+    margin-top: 10px;
+}
 
 
-/* Juan Pablo Segunda parte */
+/* Footer styles */
+
+footer {
+    width: 100%;
+    background-color: #4CAF50;
+    padding: 20px 0;
+    color: #fff;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.centrar-social-media {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.social-media {
+    width: 30%;
+    display: flex;
+    justify-content: space-around;
+}
+
+a i{
+    width: 60px;
+    height: 60px;
+    padding-top: 50%;
+    color: #fff;
+    transition: transform 0.3s ease;
+}
+
+footer i:hover {
+    transform: scale(1.2);
+}
+
+.container-suggestions {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.input-suggestions {
+    width: 200px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+.coment-suggestions {
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.coment-suggestions:hover {
+    background-color: #555;
+}
