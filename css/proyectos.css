@@ -320,7 +320,12 @@ label{
     
 }
 
-
+#workTeam{
+   display: flex;
+   margin-top: 2%;
+   font-size: 30px;
+   justify-content: center;
+}
 
 
 .them{
@@ -329,15 +334,22 @@ label{
    display: flex;
    justify-content: center;
    align-items: center;
-
+   gap: 3%;
 }
 
 .them .imgs{
-   width: 100px;
-   height: 100px;
+   width: 150px;
+   height: 150px;
    background: #448c46;
    border-radius: 50%;
    margin-left: 20px;
+}
+
+/*Img Sebastian*/
+.them .imgs:nth-child(1){
+   background-image: url(/img/imgsebas.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
 }
 
 
