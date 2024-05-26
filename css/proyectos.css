@@ -340,9 +340,15 @@ label{
 .them .imgs{
    width: 150px;
    height: 150px;
-   background: #448c46;
+   background: black;
    border-radius: 50%;
    margin-left: 20px;
+   box-shadow: 0 0 7px #535353;
+   transition: transform 0.3s ease;
+}
+.them  .imgs:hover{
+   transform: scale(1.1);
+   box-shadow: 0 2px 9px #535353;
 }
 
 /*Img Sebastian*/
@@ -351,7 +357,22 @@ label{
    background-size: cover;
    background-repeat: no-repeat;
 }
-
+/* IMG Isabela */
+.them .imgs:nth-child(2){
+   background-image: url(/img/imgisabela.jpg);
+   background-size: 97%;
+   background-repeat: no-repeat;
+   background-position: center;
+}
+ 
+/* IMG Trululu*/
+.them .imgs:nth-child(3){
+   background-image: url(/img/imgtrululu.jpg);
+   background-size: cover;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-position: center;
+}
 
 /* Footer styles */
 
