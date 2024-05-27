@@ -1,9 +1,9 @@
 *{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 body{
-
    padding: 0;
    margin: 0;
    background-color: #f4f4f4;
@@ -325,7 +325,7 @@ label{
     z-index: 0;
 }
 
-.textoapi{
+.api .textoapi{
    padding-inline: 10%;
    padding-block: 5%;
    color: white;
@@ -333,18 +333,34 @@ label{
    text-justify: center;
 }
 
+.api #imgcompanie{
+   width: 180px;
+   height: 180px;
+   display: flex;
+   margin-top: 3%;
+   margin-inline: 32%;
+   background-image: url(/img/logo.png);
+   background-size: cover;
+}
+
 .botonapi{
    background-color: #4CAF50;
    color: white;
    z-index: 2;
-   width: 45%;
-   height: 70px;
+   width: 40%;
+   height: 65px;
    border-radius: 10px;
    display: flex;
    justify-content: center;
    margin-block: 8%;
-   margin-inline: 25%;
+   margin-inline: 27.5%;
    align-items: center;
+   transition: transform 0.3s ease;
+}
+
+.botonapi:hover{
+   transform: scale(1.1);
+   background-color: #448c46;
 }
 
 #workTeam{
@@ -395,6 +411,15 @@ label{
 /* IMG Trululu*/
 .them .imgs:nth-child(3){
    background-image: url(/img/imgtrululu.jpg);
+   background-size: cover;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-position: center;
+}
+
+/* IMG Santiago */
+.them .imgs:nth-child(4){
+   background-image: url(/img/imgsantiago.jpg);
    background-size: cover;
    background-position: center;
    background-repeat: no-repeat;
