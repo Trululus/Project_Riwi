@@ -1,6 +1,4 @@
-# Project_Riwi
-<h1>Terra Coin</h1>
-
+# TerraCoin
 <h2>Quiénes Somos</h2>
 <p>En Terracoin, estamos comprometidos con la conservación del medio ambiente en la hermosa región de Antioquia, Colombia. Somos unos de los pioneros en la utilización de la tecnología blockchain, NFT y las criptomonedas como herramientas innovadoras para recaudar fondos destinados a proyectos ambientales significativos además de mostrar cuales son los impactos que se han logrado .</p>
 
