@@ -70,3 +70,7 @@ Mantener una transparencia total en todas las operaciones financieras y de gesti
 
 
 
+<H2> Tablero de Actividades </H2>
+<p> https://trello.com/invite/b/RtSuB3Q8/ATTI7a7db76a68d062b597da7bb34176ad51A3FB9D94/terracoin </p>
+
+
