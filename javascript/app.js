@@ -64,7 +64,6 @@ async function login(){
         alert('USUARIO NO ENCONTRADO');
         return;
     }
-
     if(data[0].password === password.value){
         localStorage.setItem('users', JSON.stringify(data[0]))
         window.location.href = 'usuario.html'
